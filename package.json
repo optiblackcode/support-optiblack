@@ -2,7 +2,7 @@
   "name": "optibleck-support",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://optiblackcode.github.io/support-ooptiblack",
+  "homepage": "https://optiblackcode.github.io/support-optiblack",
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
