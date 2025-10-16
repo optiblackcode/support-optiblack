@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { Search, Settings, BarChart3, CreditCard, HelpCircle, ShoppingBag, Zap, Database, Globe, ChevronRight, ArrowLeft, BookOpen, Code2, Users, Gauge } from 'lucide-react';
+import { Search, BarChart3, Zap, Database, Globe, ChevronRight, ArrowLeft, BookOpen, Code2, Users } from 'lucide-react';
 
 export default function OptIBlackSupport() {
   const [searchQuery, setSearchQuery] = useState('');
@@ -396,9 +396,9 @@ export default function OptIBlackSupport() {
           <nav className="max-w-7xl mx-auto px-6 py-4 flex justify-between items-center">
             <div className="text-3xl font-bold bg-gradient-to-r from-cyan-400 to-blue-500 bg-clip-text text-transparent">OPTIBLECK</div>
             <div className="flex gap-8 items-center">
-              <a href="#" className="hover:text-cyan-400 transition text-sm">Home</a>
-              <a href="#" className="hover:text-cyan-400 transition text-sm">Sign Up</a>
-              <a href="#" className="hover:text-cyan-400 transition text-sm">Contact Us</a>
+              <button className="hover:text-cyan-400 transition text-sm">Home</button>
+              <button className="hover:text-cyan-400 transition text-sm">Sign Up</button>
+              <button className="hover:text-cyan-400 transition text-sm">Contact Us</button>
               <button className="flex items-center gap-2 hover:text-cyan-400 transition text-sm">
                 <Globe size={16} />
                 <span>English</span>
@@ -475,9 +475,9 @@ export default function OptIBlackSupport() {
           <nav className="max-w-7xl mx-auto px-6 py-4 flex justify-between items-center">
             <div className="text-3xl font-bold bg-gradient-to-r from-cyan-400 to-blue-500 bg-clip-text text-transparent">OPTIBLECK</div>
             <div className="flex gap-8 items-center">
-              <a href="#" className="hover:text-cyan-400 transition text-sm">Home</a>
-              <a href="#" className="hover:text-cyan-400 transition text-sm">Sign Up</a>
-              <a href="#" className="hover:text-cyan-400 transition text-sm">Contact Us</a>
+              <button className="hover:text-cyan-400 transition text-sm">Home</button>
+              <button className="hover:text-cyan-400 transition text-sm">Sign Up</button>
+              <button className="hover:text-cyan-400 transition text-sm">Contact Us</button>
               <button className="flex items-center gap-2 hover:text-cyan-400 transition text-sm">
                 <Globe size={16} />
                 <span>English</span>
@@ -569,9 +569,9 @@ export default function OptIBlackSupport() {
           <nav className="max-w-7xl mx-auto px-6 py-4 flex justify-between items-center">
             <div className="text-3xl font-bold bg-gradient-to-r from-cyan-400 to-blue-500 bg-clip-text text-transparent">OPTIBLECK</div>
             <div className="flex gap-8 items-center">
-              <a href="#" className="hover:text-cyan-400 transition text-sm">Home</a>
-              <a href="#" className="hover:text-cyan-400 transition text-sm">Sign Up</a>
-              <a href="#" className="hover:text-cyan-400 transition text-sm">Contact Us</a>
+              <button className="hover:text-cyan-400 transition text-sm">Home</button>
+              <button className="hover:text-cyan-400 transition text-sm">Sign Up</button>
+              <button className="hover:text-cyan-400 transition text-sm">Contact Us</button>
               <button className="flex items-center gap-2 hover:text-cyan-400 transition text-sm">
                 <Globe size={16} />
                 <span>English</span>
