@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/support-optiblack/static/css/main.da093a4d.css",
+    "main.js": "/support-optiblack/static/js/main.e0397acc.js",
+    "index.html": "/support-optiblack/index.html",
+    "main.da093a4d.css.map": "/support-optiblack/static/css/main.da093a4d.css.map",
+    "main.e0397acc.js.map": "/support-optiblack/static/js/main.e0397acc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.da093a4d.css",
+    "static/js/main.e0397acc.js"
+  ]
+}
